@@ -1,0 +1,83 @@
+body {
+  font-family: Kumbh Sans;
+  font-size: 18px;
+  background-color:  hsl(185, 75%, 39%);
+}
+hr {
+  height: 0;
+  background-color: gray;
+  padding: 0;
+}
+.top-pattern {
+  position: fixed;
+  margin-left: -300px;
+  margin-top: -750px;
+}
+.bottom-pattern {
+  position: fixed;
+  margin-left: 600px;
+  margin-top: 100px;
+}
+.box {
+  height: 350px;
+  width: 300px;
+  position: relative;
+  margin-top: 100px;
+  margin-left: 500px;
+  border-radius: 3%;
+  align-items: center;
+  background-color: white;
+}
+.card {
+  height: 150px;
+  width: 300px;
+  border-top-left-radius: 3%;
+  border-top-right-radius: 3%;
+}
+.victor {
+  padding: 5px;
+  border-radius: 100%;
+background-color: white;
+margin-left: 90px;
+margin-top: -50px;
+margin-bottom: -15px;
+
+  }
+  .bold {
+    color: hsl(229, 23%, 23%);
+    font-weight: 700;
+    font-size: 12px;
+  margin-left: 100px;
+  margin-bottom: -25px;
+  position: relative;
+    }
+    .bold1 {
+      color: hsl(229, 23%, 23%);
+      font-weight: 500;
+      font-size: 12px;
+    margin-left: 125px;
+    margin-top: -8px;
+    border: 0;
+    padding: 0;
+    position: relative;
+      }
+      .bold2 {
+        color: hsl(229, 23%, 23%);
+        font-weight: 700;
+        font-size: 16px;
+text-align: center;
+        }
+        .bold3 {
+          color: hsl(229, 23%, 23%);
+          font-weight: lighter;
+          font-size: 10px;
+          width: 100px;
+text-align:center;
+          }
+.table{
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.age {
+  font-size: 14px;
+}
